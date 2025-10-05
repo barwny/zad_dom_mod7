@@ -1,0 +1,4 @@
+.env
+*.log
+.ipynb_checkpoints/
+klastrowanie_danych_kroki.ipynb
